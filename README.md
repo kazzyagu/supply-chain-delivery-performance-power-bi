@@ -22,7 +22,7 @@ This project follows an earlier Excel version of the same analysis (pivot tables
 
 ## Dataset
 
-- **Source:** above
+- **Source:** check link above
 - **Size:** about 180,000 order-item rows, about 65,700 unique orders
 - **Note:** the raw file is not included in this repository. Download it from the source above.
 
@@ -115,9 +115,11 @@ Avg Days Actual   = AVERAGE(Clean_Data[Days for shipping (real)])
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Delivery Performance](https://github.com/kazzyagu/supply-chain-delivery-performance-power-bi/blob/main/delivery%20performance.PNG)
 
-*Add one screenshot per report page, for example `images/overview.png`, `images/shipping-modes.png` and `images/markets-trends.png`.*
+![Why Orders are Late](https://github.com/kazzyagu/supply-chain-delivery-performance-power-bi/blob/main/Wht%20orders%20are%20late.PNG)
+
+![Recommendations](https://github.com/kazzyagu/supply-chain-delivery-performance-power-bi/blob/main/recommendations.PNG)
 
 ## Repository contents
 
